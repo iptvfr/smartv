@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Eurosport (Fr)
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+#EXTINF:-1,tvg-logo="EUROSPORT1.png",EUROSPORT 1 HD
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:-1,tvg-logo="EUROSPORT1.png",EUROSPORT 1 FR HD
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
