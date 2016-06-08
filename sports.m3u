@@ -1,7 +1,13 @@
 #EXTM3U
 
-#EXTINF:0,[B][COLOR blue]Canais[/B][/COLOR]
-http://0.0.0.0:1234
+#EXTINF:-1,Eurosport (Fr)
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="EUROSPORT1.png",EUROSPORT 1 HD
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+
+#EXTINF:-1,tvg-logo="EUROSPORT1.png",EUROSPORT 1 FR HD
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png" group-title="Plexus",Sport TV 1 [FHD] [B][COLOR red]Plexus[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://359a65b9d81e5bf1eaaa8467fd888e08152dc5be&name=SportTV1
