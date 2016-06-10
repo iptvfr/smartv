@@ -5,6 +5,8 @@ http://s1.wssiptv.com:8000/live/line2/oijoasijoaijsdoaasdssd/90.ts?1234
 http://s1.wssiptv.com:8000/live/line2/oijoasijoaijsdoaasdssd/91.ts?1234
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ruwyrx1437951021.png",Eurosport France
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:-1,CANAL+ SPORT
+http://service1.astrovida.tv:8000/live/0LnO02LU643/uqMWXzezxA0/55.ts
 #EXTINF:-1,FR-TF1
 http://tv2iptv.com:8000/live/wael/wael/1281.ts
 #EXTINF:-1,FR-M6
