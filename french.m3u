@@ -8,8 +8,12 @@ http://cp.dmbshare.net:8000/live/raffaele/raffaele/5664.ts
 http://cp.dmbshare.net:8000/live/whelan/whelan/5664.ts
 #EXTINF:-1,FRENCH | Canal+
 http://cp.dmbshare.net:8000/live/cengiz/cengiz/5664.ts
+#EXTINF:-1,FR: Canal + HD
+http://serv01.iptvplanet.eu:11118/live/VOwCu3atg2/5CCpzeT1b9/2241.ts 
 #EXTINF:-1,FR: TF 1 HD
 http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1453.ts 
+#EXTINF:-1,FR: TF 1 HD
+http://serv01.iptvplanet.eu:11118/live/VOwCu3atg2/5CCpzeT1b9/1453.ts 
 #EXTINF:-1,FR: France 2 HD
 http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1440.ts 
 #EXTINF:-1,FR: France 3 HD
