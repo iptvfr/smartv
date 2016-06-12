@@ -5,6 +5,8 @@ http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/1428.m3u8
 http://service1.astrovida.tv:8000/live/0LnO02LU643/uqMWXzezxA0/55.ts
 #EXTINF:-1,Canal+ Sport
 http://service1.astrovida.tv:8000/live/0LnO02LU643/uqMWXzezxA0/56.ts
+#EXTINF:-1,CANAL+
+http://163.172.17.191:5890/live/brahim1/brahim1/331.ts
 #EXTINF:-1,FRENCH | FOOT +
 http://boxiptv.noip.us:9998/live/mile/skype/63.ts
 #EXTINF:-1,A la Carte 1
@@ -789,8 +791,6 @@ http://163.172.17.191:5890/live/brahim1/brahim1/326.ts
 http://163.172.17.191:5890/live/brahim1/brahim1/1774.ts
 #EXTINF:-1,KOMBAT SPORT
 http://163.172.17.191:5890/live/brahim1/brahim1/997.ts
-#EXTINF:-1,CANAL+
-http://163.172.17.191:5890/live/brahim1/brahim1/331.ts
 #EXTINF:-1,SERIE CLUB
 http://163.172.17.191:5890/live/brahim1/brahim1/329.ts
 #EXTINF:-1,CANAL+SERIES
@@ -935,4 +935,141 @@ http://163.172.17.191:5890/live/brahim1/brahim1/868.ts
 http://163.172.17.191:5890/live/brahim1/brahim1/820.ts
 #EXTINF:-1,Tiji
 http://163.172.17.191:5890/live/brahim1/brahim1/871.ts
-
+#EXTINF:-1,FR: TF 1 HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/1453.m3u8
+#EXTINF:-1,FR: France 2 HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/1440.m3u8
+#EXTINF:-1,FR: France 3 HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/1441.m3u8
+#EXTINF:-1,FR: France 4 HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/1442.m3u8
+#EXTINF:-1,FR: France 5 HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/1443.m3u8
+#EXTINF:-1,FR: France O HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/1444.m3u8
+#EXTINF:-1,FR: HD1
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2568.m3u8
+#EXTINF:-1,FR: PARIS PREMIERE HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2566.m3u8
+#EXTINF:-1,FR: Canal + HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2241.m3u8
+#EXTINF:-1,FR: Canal + Cinema HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2242.m3u8
+#EXTINF:-1,FR: Canal + Family HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2266.m3u8
+#EXTINF:-1,FR: OCS CHOC HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2256.m3u8
+#EXTINF:-1,FR: OCS GEANTS HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2258.m3u8
+#EXTINF:-1,FR: OCS CITY HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2257.m3u8
+#EXTINF:-1,FR: ACTION HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2660.m3u8
+#EXTINF:-1,FR: CINE+ PREMIER HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2246.m3u8
+#EXTINF:-1,FR: CINE+ EMOTION HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2245.m3u8
+#EXTINF:-1,FR: CINE+ FRISSON HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2562.m3u8
+#EXTINF:-1,FR: CINE+ FAMIZ HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2561.m3u8
+#EXTINF:-1,FR: CINE+ CLASSIC HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2560.m3u8
+#EXTINF:-1,FR: CANAL+ DECALE HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2559.m3u8
+#EXTINF:-1,FR: Canal + Series HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2265.m3u8
+#EXTINF:-1,FR: Comedie + HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/1438.m3u8
+#EXTINF:-1,FR: 13EME RUE HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2243.m3u8
+#EXTINF:-1,FR: SYFY HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2262.m3u8
+#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2259.m3u8
+#EXTINF:-1,FR: SEASONS HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2261.m3u8
+#EXTINF:-1,FR: BET HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2244.m3u8
+#EXTINF:-1,FR: ITele
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/1446.m3u8
+#EXTINF:-1,FR: M6 HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/1448.m3u8
+#EXTINF:-1,FR: Nautical HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2684.m3u8
+#EXTINF:-1,FR: Canal + Sport HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/1437.m3u8
+#EXTINF:-1,FR: FOOT+ 24/24 HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2570.m3u8
+#EXTINF:-1,FR: Bein Sports 1 HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/1428.m3u8
+#EXTINF:-1,FR: Bein Sports 2 HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/1429.m3u8
+#EXTINF:-1,FR: Bein Sports 3 HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/1430.m3u8
+#EXTINF:-1,FR: BeIn Sports Max 4
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/1432.m3u8
+#EXTINF:-1,FR: BeIn Sports Max 5
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/1433.m3u8
+#EXTINF:-1,FR: BeIn Sports Max 6
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/1434.m3u8
+#EXTINF:-1,FR: BeIn Sports Max 7
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/1435.m3u8
+#EXTINF:-1,FR: BeIn Sports Max 8
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/1436.m3u8
+#EXTINF:-1,FR: MA CHAINE SPORT HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2252.m3u8
+#EXTINF:-1,FR: VOYAGE HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2264.m3u8
+#EXTINF:-1,FR: USHUAIA TV HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2263.m3u8
+#EXTINF:-1,FR: EQUIDIA LIFE HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2664.m3u8
+#EXTINF:-1,FR: EQUIDIA LIVE HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2665.m3u8
+#EXTINF:-1,FR: Science et Vie HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2669.m3u8
+#EXTINF:-1,FR: toute L Histoire HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2671.m3u8
+#EXTINF:-1,FR: PLANETE+ HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2564.m3u8
+#EXTINF:-1,FR: PLANETE+ A&E HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2565.m3u8
+#EXTINF:-1,FR: PLANETE+ CI HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2260.m3u8
+#EXTINF:-1,FR: NATIONAL GEO HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2567.m3u8
+#EXTINF:-1,FR: DISCOVERY SCIENCE HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2247.m3u8
+#EXTINF:-1,FR: HISTOIRE HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2251.m3u8
+#EXTINF:-1,FR: MTV HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2253.m3u8
+#EXTINF:-1,FR: MTV HITS HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2254.m3u8
+#EXTINF:-1,FR: NICKELODEON HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2255.m3u8
+#EXTINF:-1,FR: DISNEY CHANNEL HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2571.m3u8
+#EXTINF:-1,FR: DISNEY CINEMA HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2249.m3u8
+#EXTINF:-1,FR: DISNEY CHANNEL +1 HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2248.m3u8
+#EXTINF:-1,FR: DISNEY XD HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2250.m3u8
+#EXTINF:-1,FR: BOOMERANG HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2662.m3u8
+#EXTINF:-1,FR: CANAL J HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2572.m3u8
+#EXTINF:-1,FR: ANIMAUX HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2661.m3u8
+#EXTINF:-1,FR: TELETOON+ HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2563.m3u8
+#EXTINF:-1,FR: Piwi+ HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2574.m3u8
+#EXTINF:-1,FR: BOING HD
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2573.m3u8
+#EXTINF:-1,FR: Baby TV
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/2641.m3u8
+#EXTINF:-1,FR: Gulli
+http://serv01.iptvplanet.eu:11118/live/1B9fX87nmA/wwZxwoqGis/1445.m3u8
