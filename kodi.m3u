@@ -7,6 +7,30 @@ http://service1.astrovida.tv:8000/live/0LnO02LU643/uqMWXzezxA0/55.ts
 http://service1.astrovida.tv:8000/live/0LnO02LU643/uqMWXzezxA0/56.ts
 #EXTINF:-1,FRENCH | FOOT +
 http://boxiptv.noip.us:9998/live/mile/skype/63.ts
+#EXTINF:-1,A la Carte 1
+http://163.172.17.191:5890/live/brahim1/brahim1/1121.ts
+#EXTINF:-1,A la Carte 2
+http://163.172.17.191:5890/live/brahim1/brahim1/1120.ts
+#EXTINF:-1,A la Carte 3
+http://163.172.17.191:5890/live/brahim1/brahim1/1119.ts
+#EXTINF:-1,A la Carte 4
+http://163.172.17.191:5890/live/brahim1/brahim1/1118.ts
+#EXTINF:-1,A la Carte 5
+http://163.172.17.191:5890/live/brahim1/brahim1/1117.ts
+#EXTINF:-1,A la Carte 7
+http://163.172.17.191:5890/live/brahim1/brahim1/1116.ts
+#EXTINF:-1,CANALPLAY 1
+http://163.172.17.191:5890/live/brahim1/brahim1/1037.ts
+#EXTINF:-1,CANAPLAY 2
+http://163.172.17.191:5890/live/brahim1/brahim1/1038.ts
+#EXTINF:-1,CANAPLAY3
+http://163.172.17.191:5890/live/brahim1/brahim1/1039.ts
+#EXTINF:-1,CANAPLAY 4
+http://163.172.17.191:5890/live/brahim1/brahim1/1040.ts
+#EXTINF:-1,CANALPLAY 5
+http://163.172.17.191:5890/live/brahim1/brahim1/1041.ts
+#EXTINF:-1,CANALPLAY 6
+http://163.172.17.191:5890/live/brahim1/brahim1/1036.ts
 #EXTINF:-1,FR: TF 1 HD
 http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1453.ts
 #EXTINF:-1,FR: France 2 HD
@@ -911,27 +935,4 @@ http://163.172.17.191:5890/live/brahim1/brahim1/868.ts
 http://163.172.17.191:5890/live/brahim1/brahim1/820.ts
 #EXTINF:-1,Tiji
 http://163.172.17.191:5890/live/brahim1/brahim1/871.ts
-#EXTINF:-1,A la Carte 1
-http://163.172.17.191:5890/live/brahim1/brahim1/1121.ts
-#EXTINF:-1,A la Carte 2
-http://163.172.17.191:5890/live/brahim1/brahim1/1120.ts
-#EXTINF:-1,A la Carte 3
-http://163.172.17.191:5890/live/brahim1/brahim1/1119.ts
-#EXTINF:-1,A la Carte 4
-http://163.172.17.191:5890/live/brahim1/brahim1/1118.ts
-#EXTINF:-1,A la Carte 5
-http://163.172.17.191:5890/live/brahim1/brahim1/1117.ts
-#EXTINF:-1,A la Carte 7
-http://163.172.17.191:5890/live/brahim1/brahim1/1116.ts
-#EXTINF:-1,CANALPLAY 1
-http://163.172.17.191:5890/live/brahim1/brahim1/1037.ts
-#EXTINF:-1,CANAPLAY 2
-http://163.172.17.191:5890/live/brahim1/brahim1/1038.ts
-#EXTINF:-1,CANAPLAY3
-http://163.172.17.191:5890/live/brahim1/brahim1/1039.ts
-#EXTINF:-1,CANAPLAY 4
-http://163.172.17.191:5890/live/brahim1/brahim1/1040.ts
-#EXTINF:-1,CANALPLAY 5
-http://163.172.17.191:5890/live/brahim1/brahim1/1041.ts
-#EXTINF:-1,CANALPLAY 6
-http://163.172.17.191:5890/live/brahim1/brahim1/1036.ts
+
